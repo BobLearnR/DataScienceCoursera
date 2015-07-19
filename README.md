@@ -2,7 +2,7 @@
 <<<<<<< HEAD
 ## Repo for The Data Scientist’s Toolbox Project
 
-##   Hello World of Markdown
+##   First attempt of Markdown
 
 
 * Modified on laptop using Notepad++
