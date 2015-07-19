@@ -3,6 +3,7 @@
 ### Created on my Laptop with Notepad++ in datasciencecoursera  repo
 
 	* $ git add HelloWorld.md
+	
 	* $ git commit -m 'Initial save HelloWorld.md'
 
 ### Pushed to my github repo datasciencecoursera
@@ -10,7 +11,7 @@
 	* $ git push  https://github.com/BobLearnR/DataScienceCoursera master
 
 
-### Below id the Link that I will Submit pointing to the HelloWorld.md file on your Github repo. 
+### Below is the Link that I will Submit pointing to the HelloWorld.md file in my Github repo. 
 
 https://github.com/BobLearnR/DataScienceCoursera/blob/master/HelloWorld.md
 
@@ -22,7 +23,6 @@ Problem found while loading packages
 Warning in install.packages("slidify") :
   'lib = "C:/Program Files/R/R-3.2.1/library"' is not writable
   
---- Please select a CRAN mirror for use in this session ---
 Warning message:
 package ‘slidify’ is not available (for R version 3.2.1) 
 
@@ -31,7 +31,8 @@ Installing packages into ‘C:/Users/Bob/Documents/R/win-library/3.2’
 (as ‘lib’ is unspecified)
 
 Warning message:
-package ‘slidify’ is not available (for R version 3.2.1) 
+package ‘slidify’ is not available (for R version 3.2.1)
+
 package ‘Rtools’ is not available (for R version 3.2.1) 
 
 > version
